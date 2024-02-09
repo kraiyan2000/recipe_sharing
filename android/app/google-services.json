@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54422800684",
+    "project_id": "recipe-sharing-3fa9b",
+    "storage_bucket": "recipe-sharing-3fa9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54422800684:android:00d33e44ff883362ee0489",
+        "android_client_info": {
+          "package_name": "com.example.recipe_sharing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbYEOb4v5lMdvuJHm0VI0wJRKQa5gcA6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
